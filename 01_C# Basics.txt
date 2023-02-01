@@ -1,0 +1,89 @@
+Assignment
+1. print 'Hello world' on console.
+2. Accept Name from user and print "Welcome Name" on console.
+3. Accept name as cmd line argument and Display Welcome Name message
+4. Write a C# Sharp program to find the eligibility of admission for a professional course based on the following criteria: 
+	Marks in Maths >=65
+	Marks in Phy >=55
+	Marks in Chem>=50
+	Total in all three subject >=180
+ Accept Marks for all subject from user and Print eligiblity of user.
+
+5.Write a C# Sharp program to read roll no, name and marks of three subjects and calculate the total, percentage and class. 
+	Test Data :
+	Input the Roll Number of the student :784
+	Input the Name of the Student :James
+	Input the marks of Physics, Chemistry and Computer Application : 70 80 90
+	
+Expected Output :
+	Roll No : 784
+	Name of Student : James
+	Marks in Physics : 70
+	Marks in Chemistry : 80
+	Marks in Computer Application : 90
+	Total Marks = 240
+	Percentage = 80.00
+	class = First class.
+
+6. Write a program in C# Sharp to read any Month Number in integer and display Month name in the word.(use switch case)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Write a program in C# Sharp to display the multiplication table vertically from 1 to 12.
+
+8. Write a program in C# Sharp to display the multiplication table Horizontally from 1 to 12.
+
+9. Write a program in C# Sharp to check accepted number is palliondrome or not.
+
+10. Declare string array of 6 element and display unique strings(if string is duplicate display only once) from array.
+
+11. Create Array of 10 integers.pass numbers as cmd line argument  and perform following operations. Write menu driven program.
+	1. display array elements
+	2. Sum of Array elements.
+	3. min and Max from array elements.
+	4. Check array element is perfect or not.
+	5. Check array element is Prime or not.
+                     6. Count the frequency of each element of an array.
+                      7. find the second smallest element in an array.
+	8. find the second largest element in an array.
+	9. sort elements of array in ascending order. 
+	10. sort elements of array in descending  order. 
+	11. Reverse array element .
+
+12. Create array of 10 strings and write menu driven program to perform following task:
+	1. display all strings.
+	2. Display all string in Capital case.
+	3. Display all string in Lower Case.
+	4. sort elements of array in ascending order. 
+	5. sort elements of array in descending  order. 
+	6. Reverse array element .
+                     7. Reverse each string(each array element) in array.
+	8. Find the string with max Length
+	9. Find the string with Min length.
+
+13. Create 2-d array of 3 rows and 4 colums and perform following operations:
+	1. separate odd and even integers in separate arrays (1-D).
+	2. perform transpose of array.
+	3. find max array element in each row.
+	4.find max array element in each column.
+
+14. Write C# Sharp program for addition of two Matrices of same size.
+
+
+
+	
+
